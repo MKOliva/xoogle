@@ -30,3 +30,5 @@ On Debian:
 
 
 ### Usage
+
+    http://xoogle/search/

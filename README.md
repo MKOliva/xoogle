@@ -3,7 +3,7 @@
 Xoogle is a personal document indexing system, geared towards small business or private article archive.  
 Think of it as your own personal document search engine, or for a local cache of online documents.  It provides fast search of document text and meta data.
 
-It is a php script displaying data from the xapian-omega database.
+It is a proof-of-concept script displaying data from the xapian-omega database.
 
 See a demo result at: https://github.com/MKOliva/xoogle/blob/master/html/Archive/xoogle_Search-demo.pdf
 

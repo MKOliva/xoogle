@@ -24,8 +24,6 @@ Dependencies :
   * xapian-omega 
   * poppler-utils  ( for indexing PDF documents )
 
-Recommends (for curses UI) :
-  * 
 
 ### Installation
 

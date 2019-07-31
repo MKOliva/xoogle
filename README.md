@@ -8,4 +8,26 @@ Inspired by [xapers](https://github.com/nicolassmith/xapers).
 
 Dependencies: apache, php, xapian-omega 
 
+Getting Xoogle
+==============
+
+## Source
+
+
+Clone the repo:
+
+    $ git clone git://github.com/MKOliva/xoogle.git
+    $ cd xoogle
+
+Dependencies :
+  * 
+
+Recommends (for curses UI) :
+  * 
+
+On Debian:
+
+    $ sudo apt-get install apache php xapian-omega
+
+
 ## Usage

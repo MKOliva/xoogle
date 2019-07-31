@@ -32,7 +32,7 @@ Recommends (for curses UI) :
 On Debian:
 
     $ sudo apt-get install apache php xapian-omega poppler-utils
-
+    $ ln -s /var/cache/xoogle-xapian-index/ /var/lib/xapian-omega/data/xoogle
 
 ### Usage
 

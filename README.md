@@ -8,7 +8,7 @@ Inspired by [xapers](https://github.com/nicolassmith/xapers).
 Dependencies: apache, php, xapian-omega 
 
 ## Getting Xoogle
-==============
+
 
 ### Source
 

@@ -36,7 +36,7 @@ On Debian:
 
 Run indexing script: update-omega-Archive.sh
 
-Open the link http://localhost/search/ with any web browser and search your documents.
+Open the link http://xoogle/search/ with any web browser and search your documents.
 
 ### License:
 

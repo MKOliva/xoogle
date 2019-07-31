@@ -33,5 +33,5 @@ On Debian:
 
 ### Usage
 
-Open location with any web browser ( "xoog" is an example name - of the host where the software is installed )
+Open with any web browser ( "xoog" is an example name - of the host where the software is installed )
     http://xoog/search/

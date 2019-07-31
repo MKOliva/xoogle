@@ -7,10 +7,10 @@ Inspired by [xapers](https://github.com/nicolassmith/xapers).
 
 Dependencies: apache, php, xapian-omega 
 
-Getting Xoogle
+## Getting Xoogle
 ==============
 
-## Source
+### Source
 
 
 Clone the repo:
@@ -29,4 +29,4 @@ On Debian:
     $ sudo apt-get install apache php xapian-omega
 
 
-## Usage
+### Usage

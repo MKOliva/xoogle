@@ -37,7 +37,7 @@ On Debian:
 Run indexing script: update-omega-Archive.sh
 
 Open with any web browser ( "xoog" is an example name - of the host where the software is installed )
-    http://xoog/search/
+    http://xoogle/search/
 
 -----
 
@@ -45,4 +45,4 @@ In order to fully utilize the search capabilities you need to be able to edit th
 
 A good tool for such purpose is available at https://github.com/Rossi1337/pdf_meta, (old) binaries also ready for download at https://code.google.com/archive/p/pdf-meta/downloads
 
-You must also have JAVA installed.
+You also need JAVA to run the pdf-meta.

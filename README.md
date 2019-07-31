@@ -5,7 +5,7 @@ Think of it as your own personal document search engine, or for a local cache of
 
 It is a proof-of-concept script displaying data from the xapian-omega database.
 
-See a demo result at: [https://github.com/MKOliva/xoogle/blob/master/html/Archive/xoogle_Search-demo.pdf](xoogle_Search-demo.pdf)
+See a demo result at: [xoogle_Search-demo.pdf](https://github.com/MKOliva/xoogle/blob/master/html/Archive/xoogle_Search-demo.pdf)
 
 
 Inspired by [xapers](https://github.com/nicolassmith/xapers).

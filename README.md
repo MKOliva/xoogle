@@ -24,6 +24,8 @@ Dependencies :
 Recommends (for curses UI) :
   * 
 
+### Installation
+
 On Debian:
 
     $ sudo apt-get install apache php xapian-omega

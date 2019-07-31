@@ -38,6 +38,13 @@ Run indexing script: update-omega-Archive.sh
 
 Open the link http://localhost/search/ with any web browser and search your documents.
 
+### License:
+
+xoogle is distributed under BSD license. See license.txt for details.
+
+Have fun
+
+Marek Kotas
 -----
 
 In order to fully utilize the search capabilities you need to be able to edit the metadata in your PDF files.

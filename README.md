@@ -42,9 +42,9 @@ Open the link http://localhost/search/ with any web browser and search your docu
 
 xoogle is distributed under BSD license. See license.txt for details.
 
-Have fun
-
+Have fun,
 Marek Kotas
+
 -----
 
 In order to fully utilize the search capabilities you need to be able to edit the metadata in your PDF files.

@@ -22,6 +22,7 @@ Dependencies :
   * apache
   * php
   * xapian-omega 
+  * poppler-utils  ( for indexing PDF documents )
 
 Recommends (for curses UI) :
   * 
@@ -30,7 +31,7 @@ Recommends (for curses UI) :
 
 On Debian:
 
-    $ sudo apt-get install apache php xapian-omega
+    $ sudo apt-get install apache php xapian-omega poppler-utils
 
 
 ### Usage

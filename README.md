@@ -5,7 +5,7 @@ Think of it as your own personal document search engine, or a local cache of onl
 
 Inspired by [xapers](https://github.com/nicolassmith/xapers).
 
-Dependencies: apache, php, xapian-omega 
+
 
 ## Getting Xoogle
 
@@ -19,7 +19,9 @@ Clone the repo:
     $ cd xoogle
 
 Dependencies :
-  * 
+  * apache
+  * php
+  * xapian-omega 
 
 Recommends (for curses UI) :
   * 

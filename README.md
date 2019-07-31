@@ -20,7 +20,7 @@ Clone the repo:
 
 Dependencies :
   * apache
-  * php
+  * php, php-curl
   * xapian-omega 
   * poppler-utils  ( for indexing PDF documents )
 
@@ -29,7 +29,7 @@ Dependencies :
 
 On Debian:
 
-    $ sudo apt-get install apache php xapian-omega poppler-utils
+    $ sudo apt-get install apache php xapian-omega poppler-utils php-curl
     $ ln -s /var/cache/xoogle-xapian-index/ /var/lib/xapian-omega/data/xoogle
 
 ### Usage

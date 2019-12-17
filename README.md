@@ -20,7 +20,7 @@ Inspired by [xapers](https://github.com/nicolassmith/xapers).
 
 Clone the repo:
 
-    $ git clone git://github.com/MKOliva/xoogle.git
+    $ git clone git://github.com/Prosperia/xoogle.git
     $ cd xoogle
 
 Dependencies :
@@ -48,6 +48,7 @@ Open the link http://xoogle/search/ with any web browser and search your documen
 xoogle is distributed under BSD license. See license.txt for details.
 
 Have fun,
+
 Marek Kotas
 
 -----
